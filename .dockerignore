@@ -1,0 +1,40 @@
+# Node.js modules
+node_modules
+
+# Build directories
+build
+dist
+
+# Local environment configuration
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# MacOS specific files
+.DS_Store
+
+# Miscellaneous
+*.log
+*.swp
+
+# Docker related files
+Dockerfile
+docker-compose.yml
+
+# Git related files
+.git
+.gitignore
+
+# Editor and OS specific files
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+Thumbs.db
